@@ -1,6 +1,6 @@
 # StateForward
 
-State machines as the universal runtime primitive. We build deterministic, event-driven frameworks where all application logic — branching, concurrency, time, and communication — is expressed through explicit hierarchical state machines.
+State machines as the universal runtime primitive. I build deterministic, event-driven frameworks where all application logic — branching, concurrency, time, and communication — is expressed through explicit hierarchical state machines.
 
 No `if/else`. No implicit state. No side effects in transitions. Just machines, events, and run-to-completion semantics.
 
